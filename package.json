@@ -1,0 +1,15 @@
+{
+  "name": "MEANskeleton",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "debug": "^2.2.0",
+    "ejs": "^2.3.4",
+    "express": "~4.13.1",
+    "mongodb": "^2.0.42",
+    "morgan": "^1.6.1"
+  }
+}
